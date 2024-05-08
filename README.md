@@ -5,4 +5,6 @@ How to use:
 2. Put the ISO file in an virtual machine
 3. Run the machine
 
-If you want me to assist you, add me on discord; tolek2.0
+If you want me to assist you, add me on discord; tolek3.0
+
+WIP
